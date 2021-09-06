@@ -1,0 +1,12 @@
+Unir tabla productos con pedido atravez del cod_factura y cod_producto.
+Traer valor_neto y valor_total de cada producto dependiendo del cod_factura de la tabla pedido
+Sumar valor_neto y valor_total por separado para guardarlos en chequeo_general.
+
+https://www.baulphp.com/unir-dos-tablas-y-buscar-con-php-mysql/
+
+SELECT SUM(valor_neto), SUM(valor_venta) FROM productos
+INNER JOIN pedido 
+WHERE productos.cod_producto = "CA-MT1" AND pedido.cod_factura = 13
+
+SELECT cod_producto FROM pedido WHERE cod_factura = 13
+SELECT valor_neto, valor_venta FROM productos INNER JOIN pedido WHERE cod_producto = CA-MT1 AND cod_producto = CA-MT1 AND cod_producto = CA-MT1C 

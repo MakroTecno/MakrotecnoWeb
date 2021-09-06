@@ -1,0 +1,13 @@
+/* GENERAL */
+<IFModule mod_rewrite.c>
+Estos dos comandos, se utilizan para abrir y cerrar instrucciones
+</IfModule>
+
+/* INDICACIONES DEL .HTACCESS EN LA CARPETA APP */
+El comando options -indexes, tiene como funcionalidad prohibir el acceso a una carpeta desde el navegador web.
+
+/* INDICACIONES DEL .HTACCESS EN LA CARPETA PUBLIC */
+El HTACCESS, maneja todo el redireccionamiento de paginas que no existan al index.php de la carpeta public, el cual a su vez redirecciona todo al inicio.php que esta en la carpeta app
+
+/* INDICACIONES DEL .HTACCESS EN LA CARPETA RAIZ */
+Este documento lo que hace es permitir usar la pagina sin necesidad de escribir en la URL el public.

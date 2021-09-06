@@ -1,0 +1,10 @@
+.agregar {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.opciones {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

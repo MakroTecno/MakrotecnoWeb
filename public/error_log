@@ -1,0 +1,163 @@
+[15-Jul-2020 20:14:50 America/Bogota] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/makrotec/public_html/app/library/Db.php on line 10
+[15-Jul-2020 20:14:50 America/Bogota] PHP Warning:  mysqli::set_charset(): Couldn't fetch Db in /home/makrotec/public_html/app/library/Db.php on line 11
+[15-Jul-2020 20:20:44 America/Bogota] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/makrotec/public_html/app/library/Db.php on line 10
+[15-Jul-2020 20:20:44 America/Bogota] PHP Warning:  mysqli::set_charset(): Couldn't fetch Db in /home/makrotec/public_html/app/library/Db.php on line 11
+[15-Jul-2020 20:34:40 America/Bogota] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/makrotec/public_html/app/library/Db.php on line 10
+[15-Jul-2020 20:34:40 America/Bogota] PHP Warning:  mysqli::set_charset(): Couldn't fetch Db in /home/makrotec/public_html/app/library/Db.php on line 11
+[15-Jul-2020 21:06:02 America/Bogota] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/makrotec/public_html/app/library/Db.php on line 10
+[15-Jul-2020 21:06:02 America/Bogota] PHP Warning:  mysqli::set_charset(): Couldn't fetch Db in /home/makrotec/public_html/app/library/Db.php on line 11
+[15-Jul-2020 22:17:23 America/Bogota] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/makrotec/public_html/app/library/Db.php on line 10
+[15-Jul-2020 22:17:23 America/Bogota] PHP Warning:  mysqli::set_charset(): Couldn't fetch Db in /home/makrotec/public_html/app/library/Db.php on line 11
+[15-Jul-2020 22:46:28 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/makrotec/public_html/app/controllers/Panel.php:33
+Stack trace:
+#0 /home/makrotec/public_html/app/library/Core.php(41): Panel->validar()
+#1 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#2 {main}
+  thrown in /home/makrotec/public_html/app/controllers/Panel.php on line 33
+[15-Jul-2020 22:48:21 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/makrotec/public_html/app/controllers/Panel.php:33
+Stack trace:
+#0 /home/makrotec/public_html/app/library/Core.php(41): Panel->validar()
+#1 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#2 {main}
+  thrown in /home/makrotec/public_html/app/controllers/Panel.php on line 33
+[15-Jul-2020 22:48:35 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/makrotec/public_html/app/controllers/Panel.php:33
+Stack trace:
+#0 /home/makrotec/public_html/app/library/Core.php(41): Panel->validar()
+#1 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#2 {main}
+  thrown in /home/makrotec/public_html/app/controllers/Panel.php on line 33
+[15-Jul-2020 22:49:40 America/Bogota] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/makrotec/public_html/app/controllers/Panel.php on line 59
+[15-Jul-2020 22:50:15 America/Bogota] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/makrotec/public_html/app/controllers/Panel.php on line 59
+[15-Jul-2020 22:51:16 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/makrotec/public_html/app/controllers/Panel.php:33
+Stack trace:
+#0 /home/makrotec/public_html/app/library/Core.php(41): Panel->validar()
+#1 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#2 {main}
+  thrown in /home/makrotec/public_html/app/controllers/Panel.php on line 33
+[15-Jul-2020 22:52:04 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/makrotec/public_html/app/controllers/Panel.php:33
+Stack trace:
+#0 /home/makrotec/public_html/app/library/Core.php(41): Panel->validar()
+#1 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#2 {main}
+  thrown in /home/makrotec/public_html/app/controllers/Panel.php on line 33
+[15-Jul-2020 23:01:50 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/makrotec/public_html/app/controllers/Panel.php:33
+Stack trace:
+#0 /home/makrotec/public_html/app/library/Core.php(41): Panel->validar()
+#1 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#2 {main}
+  thrown in /home/makrotec/public_html/app/controllers/Panel.php on line 33
+[16-Jul-2020 10:07:46 America/Bogota] PHP Warning:  require_once(library/Menu.php): failed to open stream: No such file or directory in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:07:46 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'library/Menu.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:07:52 America/Bogota] PHP Warning:  require_once(library/Menu.php): failed to open stream: No such file or directory in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:07:52 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'library/Menu.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:07:56 America/Bogota] PHP Warning:  require_once(library/Menu.php): failed to open stream: No such file or directory in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:07:56 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'library/Menu.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:08:04 America/Bogota] PHP Warning:  require_once(library/Menu.php): failed to open stream: No such file or directory in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:08:04 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'library/Menu.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:08:10 America/Bogota] PHP Warning:  require_once(library/Menu.php): failed to open stream: No such file or directory in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:08:10 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'library/Menu.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:08:29 America/Bogota] PHP Warning:  require_once(library/Menu.php): failed to open stream: No such file or directory in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:08:29 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'library/Menu.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:14:53 America/Bogota] PHP Warning:  require_once(library/Menu.php): failed to open stream: No such file or directory in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:14:53 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'library/Menu.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:15:12 America/Bogota] PHP Warning:  require_once(library/Menu.php): failed to open stream: No such file or directory in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:15:12 America/Bogota] PHP Fatal error:  require_once(): Failed opening required 'library/Menu.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/makrotec/public_html/app/inicio.php on line 7
+[16-Jul-2020 10:54:33 America/Bogota] PHP Notice:  Undefined variable: cod_product in /home/makrotec/public_html/app/controllers/Tivicom.php on line 130
+[16-Jul-2020 10:55:22 America/Bogota] PHP Notice:  Undefined variable: cod_product in /home/makrotec/public_html/app/controllers/Tivicom.php on line 130
+[16-Jul-2020 10:56:14 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/makrotec/public_html/app/models/Tivicom_Model.php:56
+Stack trace:
+#0 /home/makrotec/public_html/app/controllers/Tivicom.php(130): Tivicom_Model->sentenciaTapabocas(7, 'TP-X', 1, '2020-07-16 10:5...')
+#1 /home/makrotec/public_html/app/library/Core.php(41): Tivicom->addTapabocas()
+#2 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#3 {main}
+  thrown in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 56
+[18-Jul-2020 18:24:58 America/Bogota] PHP Parse error:  syntax error, unexpected '$sentencia' (T_VARIABLE) in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:25:55 America/Bogota] PHP Parse error:  syntax error, unexpected '$sentencia' (T_VARIABLE) in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:26:37 America/Bogota] PHP Parse error:  syntax error, unexpected '$sentencia' (T_VARIABLE) in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:26:55 America/Bogota] PHP Parse error:  syntax error, unexpected '$sentencia' (T_VARIABLE) in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:29:44 America/Bogota] PHP Parse error:  syntax error, unexpected '$sentencia' (T_VARIABLE) in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:29:53 America/Bogota] PHP Parse error:  syntax error, unexpected '$sentencia' (T_VARIABLE) in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:31:06 America/Bogota] PHP Parse error:  syntax error, unexpected '$sentencia' (T_VARIABLE) in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:31:48 America/Bogota] PHP Parse error:  syntax error, unexpected '$sentencia' (T_VARIABLE) in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:32:02 America/Bogota] PHP Parse error:  syntax error, unexpected '$sentencia' (T_VARIABLE) in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:33:46 America/Bogota] PHP Parse error:  syntax error, unexpected '$sentencia' (T_VARIABLE) in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:33:53 America/Bogota] PHP Parse error:  syntax error, unexpected '$sentencia' (T_VARIABLE) in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:45:07 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function bind_param() in /home/makrotec/public_html/app/models/Tivicom_Model.php:69
+Stack trace:
+#0 /home/makrotec/public_html/app/controllers/Tivicom.php(173): Tivicom_Model->addGananciaMN('RECARGAS', '72000', '5000', '2020-07-18 6:44')
+#1 /home/makrotec/public_html/app/library/Core.php(41): Tivicom->addGanancias()
+#2 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#3 {main}
+  thrown in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:47:52 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function bind_param() in /home/makrotec/public_html/app/models/Tivicom_Model.php:69
+Stack trace:
+#0 /home/makrotec/public_html/app/controllers/Tivicom.php(173): Tivicom_Model->addGananciaMN('RECARGAS', '72000', '5000', '2020-07-18 6:44')
+#1 /home/makrotec/public_html/app/library/Core.php(41): Tivicom->addGanancias()
+#2 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#3 {main}
+  thrown in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:49:05 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function bind_param() in /home/makrotec/public_html/app/models/Tivicom_Model.php:69
+Stack trace:
+#0 /home/makrotec/public_html/app/controllers/Tivicom.php(173): Tivicom_Model->addGananciaMN('RECARGAS', '22000', '1400', '2020-07-18 6:48')
+#1 /home/makrotec/public_html/app/library/Core.php(41): Tivicom->addGanancias()
+#2 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#3 {main}
+  thrown in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:49:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function bind_param() in /home/makrotec/public_html/app/models/Tivicom_Model.php:69
+Stack trace:
+#0 /home/makrotec/public_html/app/controllers/Tivicom.php(173): Tivicom_Model->addGananciaMN('sasd', '231', '323', '2020-07-18 6:49')
+#1 /home/makrotec/public_html/app/library/Core.php(41): Tivicom->addGanancias()
+#2 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#3 {main}
+  thrown in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:50:23 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function bind_param() in /home/makrotec/public_html/app/models/Tivicom_Model.php:69
+Stack trace:
+#0 /home/makrotec/public_html/app/controllers/Tivicom.php(173): Tivicom_Model->addGananciaMN('sasd', '231', '323', '2020-07-18 6:49')
+#1 /home/makrotec/public_html/app/library/Core.php(41): Tivicom->addGanancias()
+#2 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#3 {main}
+  thrown in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:51:09 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function bind_param() in /home/makrotec/public_html/app/models/Tivicom_Model.php:69
+Stack trace:
+#0 /home/makrotec/public_html/app/controllers/Tivicom.php(173): Tivicom_Model->addGananciaMN('asdasd', '3423', '234234', '2020-07-18 6:51')
+#1 /home/makrotec/public_html/app/library/Core.php(41): Tivicom->addGanancias()
+#2 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#3 {main}
+  thrown in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:51:42 America/Bogota] PHP Warning:  require_once(/home/makrotec/public_html/app/views/inc/header.php): failed to open stream: No such file or directory in /home/makrotec/public_html/app/views/Tivicom/index.php on line 2
+[18-Jul-2020 18:51:42 America/Bogota] PHP Fatal error:  require_once(): Failed opening required '/home/makrotec/public_html/app/views/inc/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/makrotec/public_html/app/views/Tivicom/index.php on line 2
+[18-Jul-2020 18:53:34 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function bind_param() in /home/makrotec/public_html/app/models/Tivicom_Model.php:69
+Stack trace:
+#0 /home/makrotec/public_html/app/controllers/Tivicom.php(173): Tivicom_Model->addGananciaMN('RECARGAS', '22000', '1400', '2020-07-18 6:53')
+#1 /home/makrotec/public_html/app/library/Core.php(41): Tivicom->ganancias()
+#2 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#3 {main}
+  thrown in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 18:55:37 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function bind_param() in /home/makrotec/public_html/app/models/Tivicom_Model.php:70
+Stack trace:
+#0 /home/makrotec/public_html/app/controllers/Tivicom.php(173): Tivicom_Model->addGananciaMN('2020-07-18 6:53', 'RECARGAS', '22000', '1400')
+#1 /home/makrotec/public_html/app/library/Core.php(41): Tivicom->ganancias()
+#2 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#3 {main}
+  thrown in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 70
+[18-Jul-2020 18:56:13 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function bind_param() in /home/makrotec/public_html/app/models/Tivicom_Model.php:69
+Stack trace:
+#0 /home/makrotec/public_html/app/controllers/Tivicom.php(173): Tivicom_Model->addGananciaMN('2020-07-18 6:53', 'RECARGAS', '22000', '1400')
+#1 /home/makrotec/public_html/app/library/Core.php(41): Tivicom->ganancias()
+#2 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#3 {main}
+  thrown in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 69
+[18-Jul-2020 19:01:31 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function bind_param() in /home/makrotec/public_html/app/models/Tivicom_Model.php:70
+Stack trace:
+#0 /home/makrotec/public_html/app/controllers/Tivicom.php(173): Tivicom_Model->addGananciaMN('2020-07-18 6:53', 'RECARGAS', '22000', '1400')
+#1 /home/makrotec/public_html/app/library/Core.php(41): Tivicom->ganancias()
+#2 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#3 {main}
+  thrown in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 70
+[18-Jul-2020 19:02:45 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function bind_param() in /home/makrotec/public_html/app/models/Tivicom_Model.php:70
+Stack trace:
+#0 /home/makrotec/public_html/app/controllers/Tivicom.php(173): Tivicom_Model->addGananciaMN('2020-07-18 7:02', 'RECARGAS', '22000', '1400')
+#1 /home/makrotec/public_html/app/library/Core.php(41): Tivicom->ganancias()
+#2 /home/makrotec/public_html/public/index.php(4): Core->__construct()
+#3 {main}
+  thrown in /home/makrotec/public_html/app/models/Tivicom_Model.php on line 70
